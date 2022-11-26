@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>AranRusj_x</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="1549">[tag =&quot;N...n.*&quot;&amp;lemma!=&quot;.*инг&quot;] within [lemma=&quot;.*инг&quot;][tag =&quot;N...n.*&quot;]</subquery>
+    <subquery operation="Positive filter" size="29">0 0&gt;0 0 [lemma_lc=&quot;центр&quot;]</subquery>
+  </query>
+</header>
+<collocations>
+  <item>
+    <str>андеррайтинг</str>
+    <freq>1</freq>
+    <collfreq>6</collfreq>
+    <score type="logDice">9.87072</score>
+  </item>
+  <item>
+    <str>Мерчендайзинг</str>
+    <freq>1</freq>
+    <collfreq>7</collfreq>
+    <score type="logDice">9.83007</score>
+  </item>
+  <item>
+    <str>коворкинг</str>
+    <freq>1</freq>
+    <collfreq>11</collfreq>
+    <score type="logDice">9.67807</score>
+  </item>
+  <item>
+    <str>дайвинг</str>
+    <freq>5</freq>
+    <collfreq>347</collfreq>
+    <score type="logDice">8.76734</score>
+  </item>
+  <item>
+    <str>боулинг</str>
+    <freq>2</freq>
+    <collfreq>231</collfreq>
+    <score type="logDice">7.97763</score>
+  </item>
+  <item>
+    <str>тренинг</str>
+    <freq>13</freq>
+    <collfreq>4764</collfreq>
+    <score type="logDice">6.47373</score>
+  </item>
+  <item>
+    <str>шоппинг</str>
+    <freq>1</freq>
+    <collfreq>346</collfreq>
+    <score type="logDice">6.44925</score>
+  </item>
+  <item>
+    <str>серфинг</str>
+    <freq>1</freq>
+    <collfreq>458</collfreq>
+    <score type="logDice">6.07222</score>
+  </item>
+  <item>
+    <str>консалтинг</str>
+    <freq>1</freq>
+    <collfreq>1107</collfreq>
+    <score type="logDice">4.85025</score>
+  </item>
+  <item>
+    <str>холдинг</str>
+    <freq>1</freq>
+    <collfreq>2275</collfreq>
+    <score type="logDice">3.83007</score>
+  </item>
+  <item>
+    <str>хостинг</str>
+    <freq>1</freq>
+    <collfreq>2503</collfreq>
+    <score type="logDice">3.69394</score>
+  </item>
+</collocations>
+</export>
